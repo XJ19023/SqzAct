@@ -1,0 +1,6 @@
+hw,Frequency,N,M,Max Precision (bits),Min Precision (bits),Area (um^2),Leakage Power (nW),Dynamic Power (nW),Total Power (nW)
+systolic_array,500000000,1,1,8,4, 1 ,64314,279960,344300
+mant,500000000,1,2,8,4, 1 ,4022,481587,485609
+olive,500000000,1,2,8,4, 1 ,3474,306780,310254
+spark,500000000,1,2,8,4, 1 ,2001,189150,191151
+squeeze,500000000,1,2,8,4, 1 ,2099,185706,187805

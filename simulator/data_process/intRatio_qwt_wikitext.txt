@@ -1,0 +1,8 @@
+TinyLlama-1.1B-Chat-v1.0 int8 Ratio: 0.6590s
+llama-2-7b-hf int8 Ratio: 0.4727s
+Meta-Llama-3-8B int8 Ratio: 0.5555s
+Qwen2.5-0.5B int8 Ratio: 0.6741s
+Qwen2.5-1.5B int8 Ratio: 0.4730s
+Qwen2.5-7B int8 Ratio: 0.3398s
+>>>RUNNING TIME: 0h-0m-10s
+
